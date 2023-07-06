@@ -1,0 +1,72 @@
+How many traffic stop-involved police killings (TSPKs) are there in total?
+
+595
+
+What proportion of all police killings do TSPKs comprise? Briefly describe how you arrived at these numbers and 
+explain any decisions you made in the process.
+
+17% / I divided the total number of police killing by the total TSPKS.
+
+
+What is the total number of incidents each year? 
+
+    # 2021.0    1149
+    # 2018.0    1145
+    # 2020.0    1132
+    # 2015.0    1103
+    # 2019.0    1097
+    # 2017.0    1094
+    # 2013.0    1087
+    # 2016.0    1070
+    # 2014.0    1049
+    # 2022.0     416
+
+How do these incidents break down by race?
+
+# White               4430
+# Black               2555
+# Hispanic            1809
+# Unknown race         996
+# Asian                145
+# Native American      139
+# Pacific Islander      60
+
+What are the top 3 agencies responsible for these incidents, and how many TSPKs are each responsible for?
+
+# California Highway Patrol                 Traffic Stop      9
+# Los Angeles County Sheriff's Department   Traffic Stop      8
+# Arizona Department of Public Safety       Traffic Stop      7
+
+For every state, the absolute number of TSPKs, broken down by race as well
+as the total for all races.
+
+
+
+Which state has the highest per capita rate of TSPKs overall and what is it? Which state has the lowest per capita rate, and what is it? 
+How do these numbers compare to the national per capita rate?
+
+Do you have any concerns about the data used to generate the results in Parts 1-3? If so, what are they?
+
+Data quality issues that may have occured during reporting.  I would also think that some municipalties may underreport 
+incidents or try corrupt certain aspects of the data.
+
+Write a script that re-computes the top 3 agencies and their TSPK counts, correcting for these data entry issues, and attach it with the rest of your code and answers.
+Does making this correction change the answer in Part 2?
+
+Yes, Georgia State Patrol is now responsible for the mosdt TSPK's.
+
+Time Spent per Part:
+    -Part 1: 20mins
+    -Part 2: 1hr
+    -Part 3: 1.5hrs
+    -Part 4: na
+    -Part 5: 20mins
+
+
+I referenced Pandas course curriculum to complete this assessment in addition to various web articles to troubleshoot
+errors.
+
+The following Github link is an example of a data pipeline i am working on for the Code for Boston Police Data Trust 
+project:
+
+https://github.com/ren0nie0/police-data-trust/tree/main/backend/scraper/data_scrapers/counted

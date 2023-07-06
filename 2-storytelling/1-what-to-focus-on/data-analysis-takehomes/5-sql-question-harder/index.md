@@ -1,0 +1,1 @@
+You have an order table with columns (order_id, customer_id, order_placed_at, revenue). Write a query that, for every customer order, tells you how much they spent in the previous and next 28 days.

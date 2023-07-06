@@ -1,0 +1,147 @@
+state,race,name
+AK,Native American,2
+AK,Pacific Islander,1
+AK,White,1
+AL,Black,6
+AL,Hispanic,1
+AL,White,6
+AR,Asian,1
+AR,Black,6
+AR,Unknown race,3
+AR,White,5
+AZ,Black,3
+AZ,Hispanic,10
+AZ,Native American,1
+AZ,Unknown race,3
+AZ,White,5
+CA,Asian,3
+CA,Black,10
+CA,Hispanic,33
+CA,Native American,1
+CA,Pacific Islander,1
+CA,Unknown race,11
+CA,White,18
+CO,Black,2
+CO,Hispanic,4
+CO,Native American,1
+CO,Unknown race,1
+CO,White,13
+CT,Black,1
+CT,Hispanic,1
+DC,Black,1
+DE,White,2
+FL,Black,12
+FL,Hispanic,2
+FL,Unknown race,1
+FL,White,12
+GA,Black,19
+GA,Unknown race,3
+GA,White,10
+HI,Asian,1
+HI,Pacific Islander,2
+IA,Black,1
+IA,White,6
+ID,Black,1
+ID,Hispanic,1
+ID,Unknown race,1
+ID,White,5
+IL,Black,6
+IL,Hispanic,4
+IL,Unknown race,1
+IN,Black,8
+IN,Unknown race,2
+IN,White,8
+KS,Black,1
+KS,Hispanic,1
+KS,White,3
+KY,Black,2
+KY,Unknown race,3
+KY,White,11
+LA,Black,7
+LA,White,5
+MA,Asian,1
+MA,Hispanic,1
+MD,Black,3
+MD,Hispanic,2
+MD,White,1
+ME,White,1
+MI,Asian,1
+MI,Black,3
+MI,Unknown race,2
+MI,White,4
+MN,Asian,1
+MN,Black,2
+MN,Hispanic,1
+MN,Native American,2
+MN,White,3
+MO,Black,6
+MO,Hispanic,1
+MO,Unknown race,4
+MO,White,12
+MS,Black,2
+MS,Unknown race,2
+MS,White,5
+MT,Black,1
+MT,Native American,2
+MT,White,2
+NC,Black,7
+NC,White,6
+ND,Native American,1
+ND,White,1
+NE,Black,1
+NH,White,2
+NJ,Black,2
+NJ,Unknown race,1
+NM,Black,1
+NM,Hispanic,6
+NM,White,3
+NV,Black,3
+NV,Hispanic,5
+NV,Unknown race,1
+NV,White,3
+NY,Black,5
+NY,Hispanic,1
+NY,White,3
+OH,Asian,1
+OH,Black,4
+OH,Unknown race,2
+OH,White,6
+OK,Black,2
+OK,Hispanic,1
+OK,Unknown race,3
+OK,White,13
+OR,Unknown race,1
+OR,White,2
+PA,Black,8
+PA,White,4
+SC,Black,3
+SC,Unknown race,4
+SC,White,3
+SD,Unknown race,1
+TN,Black,8
+TN,Hispanic,1
+TN,Unknown race,3
+TN,White,10
+TX,Black,10
+TX,Hispanic,14
+TX,Unknown race,4
+TX,White,12
+UT,Native American,1
+UT,White,5
+VA,Unknown race,1
+VA,White,4
+VT,White,1
+WA,Black,6
+WA,Hispanic,7
+WA,Pacific Islander,2
+WA,Unknown race,4
+WA,White,1
+WI,Black,5
+WI,Hispanic,1
+WI,Native American,2
+WI,Unknown race,2
+WI,White,7
+WV,Black,2
+WV,White,1
+WY,Hispanic,1
+WY,White,2
